@@ -1,6 +1,6 @@
 # passgen
 
-passgen is a python module for generating passwprds
+passgen is a python module for generating passwords
 
 ## Installation
 
